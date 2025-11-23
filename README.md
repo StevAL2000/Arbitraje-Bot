@@ -1,2 +1,2 @@
-# Bot-de-arbitraje
+# Arbitraje-Bot
 Aplicación de escritorio del Bot de arbitraje.
