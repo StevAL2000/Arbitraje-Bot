@@ -6,6 +6,7 @@ Aplicación de escritorio del Bot de arbitraje.
 
 # Sección de respuesta del bot cuando detecta que no tienes una licencia, ya sea gratuita o paga:
 <img width="902" height="619" alt="image" src="https://github.com/user-attachments/assets/92c0ea25-61d0-441e-8a34-2c7e7b858b70" />
+
 Nota: Deben copiar el HWID y compartirlo con mi persona para crear tu licencia de 24 h gratuita o tu licencia paga de 1,2,3 meses!
 
 # Sección de carrusel de señales
